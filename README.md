@@ -32,3 +32,12 @@
 5、打开浏览器，参考<说明文档.txt>中的地址
 
 ***************************************************************
+![微信图片_20240428135426](https://github.com/hjsdjko/springboot34t91/assets/120558513/23e1ed19-525c-4e87-8a44-fbfd7a9645da)
+
+![微信图片_20240428135506](https://github.com/hjsdjko/springboot34t91/assets/120558513/308854cd-af1c-457c-acfc-c2f28b2e0c3e)
+
+![微信图片_20240428135522](https://github.com/hjsdjko/springboot34t91/assets/120558513/5a0d39c0-ae62-4710-a86a-b57bc8dbff70)
+
+![微信图片_20240428135914](https://github.com/hjsdjko/springboot34t91/assets/120558513/dba002d1-1ace-4f8b-afd8-537ffd28cfd9)
+
+![微信图片_20240428135945](https://github.com/hjsdjko/springboot34t91/assets/120558513/b229fe87-bfb9-43b0-9778-654caef2c891)
